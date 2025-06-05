@@ -1,0 +1,23 @@
+[
+    {
+        "imie": "Hubert",
+        "nazwisko": "Skrobot",
+        "telefon": "",
+        "ulica": "Długa",
+        "miasto": "Gdańsk"
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "telefon": "123",
+        "ulica": "Krótka",
+        "miasto": "Gdańsk"
+    },
+    {
+        "imie": "Zofia",
+        "nazwisko": "Nowak",
+        "telefon": "321",
+        "ulica": "Długa",
+        "miasto": "Warszawa"
+    }
+]
